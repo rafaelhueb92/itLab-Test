@@ -1,0 +1,6 @@
+query{
+  carnaval(ano:2011){
+    ano,
+    dtCarnaval
+  }
+}
