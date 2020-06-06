@@ -9,7 +9,7 @@
   "author": "Rafael Hueb",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.5.0",
+    "apollo-server": "^2.14.2",
     "apollo-server-express": "^2.6.3",
     "body-parser-graphql": "^1.1.0",
     "cors": "^2.8.5",
